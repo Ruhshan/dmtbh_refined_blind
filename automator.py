@@ -1,8 +1,10 @@
 import os
 import glob
 indicator='docked'
+completed=open("completed.txt","w")
+clist=file("completed.txt").read().split()
 for ligand in glob.glob('*.pdbqt'):
-	if ligand!='test.pdbqt' and ligand.startswith('docked')==False:
+	if ligand not in clist and ligand.startswith('docked')==False:
 		lig='ligand='+ligand
 		log='log='+ligand.replace('.pdbqt','.log')
 		out='out='+indicator+'&'+ligand
@@ -17,6 +19,9 @@ for ligand in glob.glob('*.pdbqt'):
 		confw=open('conf','w')
 		confw.write('\n'.join(conf))
 		confw.close()
-		os.system('vina --config conf')
+		os.system('./vina --config conf')
+		completed=open("completed.txt","a")
+		completed.write(ligand+'\n')
+		completed.close()
 		
 

@@ -1,0 +1,162 @@
+MODEL 1
+REMARK VINA RESULT:      -4.7      0.000      0.000
+
+
+
+ROOT
+HETATM    1  C   LIG    1       48.857  49.919  35.186  0.00  0.00    +0.000 C 
+HETATM    2  C   LIG    1       47.340  50.077  35.302  0.00  0.00    +0.000 C 
+HETATM    3  C   LIG    1       47.303  50.741  33.924  0.00  0.00    +0.000 C 
+HETATM    4  C   LIG    1       48.820  50.582  33.807  0.00  0.00    +0.000 C 
+HETATM    5  C   LIG    1       49.013  51.952  34.462  0.00  0.00    +0.000 C 
+HETATM    6  C   LIG    1       47.496  52.111  34.579  0.00  0.00    +0.000 C 
+HETATM    7  C   LIG    1       47.533  51.447  35.957  0.00  0.00    +0.000 C 
+HETATM    8  C   LIG    1       49.050  51.288  35.840  0.00  0.00    +0.000 C 
+ENDROOT
+TORSDOF 0
+
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -4.7      0.044      1.515
+
+
+
+ROOT
+HETATM    1  C   LIG    1       49.038  51.237  35.834  0.00  0.00    +0.000 C 
+HETATM    2  C   LIG    1       47.520  51.392  35.941  0.00  0.00    +0.000 C 
+HETATM    3  C   LIG    1       47.333  50.035  35.258  0.00  0.00    +0.000 C 
+HETATM    4  C   LIG    1       48.851  49.880  35.153  0.00  0.00    +0.000 C 
+HETATM    5  C   LIG    1       48.826  50.570  33.787  0.00  0.00    +0.000 C 
+HETATM    6  C   LIG    1       47.308  50.726  33.893  0.00  0.00    +0.000 C 
+HETATM    7  C   LIG    1       47.495  52.082  34.575  0.00  0.00    +0.000 C 
+HETATM    8  C   LIG    1       49.013  51.927  34.470  0.00  0.00    +0.000 C 
+ENDROOT
+TORSDOF 0
+
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -4.2     25.932     27.278
+
+
+
+ROOT
+HETATM    1  C   LIG    1       32.858  29.573  39.070  0.00  0.00    +0.000 C 
+HETATM    2  C   LIG    1       33.669  30.227  40.189  0.00  0.00    +0.000 C 
+HETATM    3  C   LIG    1       34.402  28.906  40.431  0.00  0.00    +0.000 C 
+HETATM    4  C   LIG    1       33.591  28.252  39.310  0.00  0.00    +0.000 C 
+HETATM    5  C   LIG    1       32.520  27.844  40.324  0.00  0.00    +0.000 C 
+HETATM    6  C   LIG    1       33.331  28.497  41.445  0.00  0.00    +0.000 C 
+HETATM    7  C   LIG    1       32.599  29.819  41.203  0.00  0.00    +0.000 C 
+HETATM    8  C   LIG    1       31.788  29.166  40.083  0.00  0.00    +0.000 C 
+ENDROOT
+TORSDOF 0
+
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -4.2     25.945     27.285
+
+
+
+ROOT
+HETATM    1  C   LIG    1       33.661  30.225  40.215  0.00  0.00    +0.000 C 
+HETATM    2  C   LIG    1       32.851  29.579  39.089  0.00  0.00    +0.000 C 
+HETATM    3  C   LIG    1       31.786  29.151  40.100  0.00  0.00    +0.000 C 
+HETATM    4  C   LIG    1       32.595  29.797  41.226  0.00  0.00    +0.000 C 
+HETATM    5  C   LIG    1       33.337  28.478  41.449  0.00  0.00    +0.000 C 
+HETATM    6  C   LIG    1       32.527  27.832  40.324  0.00  0.00    +0.000 C 
+HETATM    7  C   LIG    1       33.593  28.260  39.312  0.00  0.00    +0.000 C 
+HETATM    8  C   LIG    1       34.402  28.906  40.438  0.00  0.00    +0.000 C 
+ENDROOT
+TORSDOF 0
+
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -4.2     25.939     27.284
+
+
+
+ROOT
+HETATM    1  C   LIG    1       33.333  28.493  41.447  0.00  0.00    +0.000 C 
+HETATM    2  C   LIG    1       34.401  28.904  40.433  0.00  0.00    +0.000 C 
+HETATM    3  C   LIG    1       33.664  30.223  40.191  0.00  0.00    +0.000 C 
+HETATM    4  C   LIG    1       32.596  29.812  41.206  0.00  0.00    +0.000 C 
+HETATM    5  C   LIG    1       31.786  29.155  40.087  0.00  0.00    +0.000 C 
+HETATM    6  C   LIG    1       32.854  29.566  39.072  0.00  0.00    +0.000 C 
+HETATM    7  C   LIG    1       33.591  28.247  39.314  0.00  0.00    +0.000 C 
+HETATM    8  C   LIG    1       32.523  27.836  40.329  0.00  0.00    +0.000 C 
+ENDROOT
+TORSDOF 0
+
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -4.1     13.773     14.887
+
+
+
+ROOT
+HETATM    1  C   LIG    1       59.775  50.987  45.548  0.00  0.00    +0.000 C 
+HETATM    2  C   LIG    1       60.150  50.518  44.141  0.00  0.00    +0.000 C 
+HETATM    3  C   LIG    1       58.719  50.787  43.670  0.00  0.00    +0.000 C 
+HETATM    4  C   LIG    1       58.345  51.257  45.077  0.00  0.00    +0.000 C 
+HETATM    5  C   LIG    1       57.953  49.826  45.450  0.00  0.00    +0.000 C 
+HETATM    6  C   LIG    1       58.327  49.356  44.043  0.00  0.00    +0.000 C 
+HETATM    7  C   LIG    1       59.758  49.087  44.514  0.00  0.00    +0.000 C 
+HETATM    8  C   LIG    1       59.384  49.557  45.921  0.00  0.00    +0.000 C 
+ENDROOT
+TORSDOF 0
+
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -4.1     13.748     14.757
+
+
+
+ROOT
+HETATM    1  C   LIG    1       59.779  49.124  44.490  0.00  0.00    +0.000 C 
+HETATM    2  C   LIG    1       58.336  49.349  44.037  0.00  0.00    +0.000 C 
+HETATM    3  C   LIG    1       58.677  50.794  43.668  0.00  0.00    +0.000 C 
+HETATM    4  C   LIG    1       60.120  50.569  44.120  0.00  0.00    +0.000 C 
+HETATM    5  C   LIG    1       59.747  51.018  45.534  0.00  0.00    +0.000 C 
+HETATM    6  C   LIG    1       58.303  51.244  45.082  0.00  0.00    +0.000 C 
+HETATM    7  C   LIG    1       57.962  49.799  45.451  0.00  0.00    +0.000 C 
+HETATM    8  C   LIG    1       59.406  49.573  45.903  0.00  0.00    +0.000 C 
+ENDROOT
+TORSDOF 0
+
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -4.1     16.317     17.402
+
+
+
+ROOT
+HETATM    1  C   LIG    1       50.134  35.799  43.836  0.00  0.00    +0.000 C 
+HETATM    2  C   LIG    1       50.311  35.178  42.450  0.00  0.00    +0.000 C 
+HETATM    3  C   LIG    1       49.587  36.371  41.822  0.00  0.00    +0.000 C 
+HETATM    4  C   LIG    1       49.411  36.993  43.209  0.00  0.00    +0.000 C 
+HETATM    5  C   LIG    1       48.074  36.265  43.364  0.00  0.00    +0.000 C 
+HETATM    6  C   LIG    1       48.251  35.643  41.978  0.00  0.00    +0.000 C 
+HETATM    7  C   LIG    1       48.974  34.450  42.606  0.00  0.00    +0.000 C 
+HETATM    8  C   LIG    1       48.798  35.072  43.992  0.00  0.00    +0.000 C 
+ENDROOT
+TORSDOF 0
+
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -3.9     27.321     28.260
+
+
+
+ROOT
+HETATM    1  C   LIG    1       44.141  31.081  55.289  0.00  0.00    +0.000 C 
+HETATM    2  C   LIG    1       44.659  30.026  54.311  0.00  0.00    +0.000 C 
+HETATM    3  C   LIG    1       46.032  30.075  54.985  0.00  0.00    +0.000 C 
+HETATM    4  C   LIG    1       45.513  31.130  55.964  0.00  0.00    +0.000 C 
+HETATM    5  C   LIG    1       45.947  32.236  55.000  0.00  0.00    +0.000 C 
+HETATM    6  C   LIG    1       46.466  31.181  54.022  0.00  0.00    +0.000 C 
+HETATM    7  C   LIG    1       45.094  31.132  53.347  0.00  0.00    +0.000 C 
+HETATM    8  C   LIG    1       44.574  32.187  54.325  0.00  0.00    +0.000 C 
+ENDROOT
+TORSDOF 0
+
+ENDMDL

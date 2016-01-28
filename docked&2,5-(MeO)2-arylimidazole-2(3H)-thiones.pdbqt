@@ -1,0 +1,324 @@
+MODEL 1
+REMARK VINA RESULT:      -5.4      0.000      0.000
+
+
+
+ROOT
+HETATM    1  C   LIG    1       44.200  28.236  51.472  0.00  0.00    +0.122 A 
+HETATM    2  C   LIG    1       45.129  28.124  50.447  0.00  0.00    +0.049 A 
+HETATM    3  C   LIG    1       46.258  28.922  50.445  0.00  0.00    +0.051 A 
+HETATM    4  C   LIG    1       46.464  29.837  51.465  0.00  0.00    +0.142 A 
+HETATM    5  C   LIG    1       45.532  29.952  52.494  0.00  0.00    +0.081 A 
+HETATM    6  C   LIG    1       44.398  29.153  52.492  0.00  0.00    +0.072 A 
+ENDROOT
+BRANCH   5   7
+HETATM    7  N   LIG    1       45.739  30.877  53.527  0.00  0.00    -0.275 N 
+HETATM    8  C   LIG    1       45.201  32.154  53.598  0.00  0.00    +0.093 C 
+HETATM    9  C   LIG    1       45.629  32.715  54.724  0.00  0.00    +0.085 C 
+HETATM   10  N   LIG    1       46.439  31.800  55.376  0.00  0.00    -0.322 N 
+HETATM   11  H   LIG    1       46.889  31.939  56.224  0.00  0.00    +0.148 HD
+HETATM   12  C   LIG    1       46.489  30.680  54.629  0.00  0.00    +0.220 C 
+BRANCH  12  13
+HETATM   13  S   LIG    1       47.362  29.256  55.009  0.00  0.00    -0.137 S 
+HETATM   14  H   LIG    1       47.334  28.439  54.525  0.00  0.00    +0.105 HD
+ENDBRANCH  12  13
+ENDBRANCH   5   7
+BRANCH   1  16
+HETATM   15  C   LIG    1       42.473  27.608  52.751  0.00  0.00    +0.277 C 
+HETATM   16  O   LIG    1       43.091  27.449  51.472  0.00  0.00    -0.495 OA
+ENDBRANCH   1  16
+BRANCH   4  17
+HETATM   17  O   LIG    1       47.575  30.621  51.461  0.00  0.00    -0.493 OA
+HETATM   18  C   LIG    1       48.702  29.743  51.517  0.00  0.00    +0.277 C 
+ENDBRANCH   4  17
+TORSDOF 4
+
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -5.3      2.321      4.958
+
+
+
+ROOT
+HETATM    1  C   LIG    1       45.154  31.798  53.770  0.00  0.00    +0.122 A 
+HETATM    2  C   LIG    1       44.449  30.976  54.637  0.00  0.00    +0.049 A 
+HETATM    3  C   LIG    1       44.147  29.678  54.270  0.00  0.00    +0.051 A 
+HETATM    4  C   LIG    1       44.546  29.195  53.034  0.00  0.00    +0.142 A 
+HETATM    5  C   LIG    1       45.253  30.019  52.162  0.00  0.00    +0.081 A 
+HETATM    6  C   LIG    1       45.550  31.323  52.530  0.00  0.00    +0.072 A 
+ENDROOT
+BRANCH   5   7
+HETATM    7  N   LIG    1       45.658  29.533  50.910  0.00  0.00    -0.275 N 
+HETATM    8  C   LIG    1       44.825  29.249  49.837  0.00  0.00    +0.093 C 
+HETATM    9  C   LIG    1       45.583  28.812  48.837  0.00  0.00    +0.085 C 
+HETATM   10  N   LIG    1       46.901  28.816  49.266  0.00  0.00    -0.322 N 
+HETATM   11  H   LIG    1       47.672  28.546  48.744  0.00  0.00    +0.148 HD
+HETATM   12  C   LIG    1       46.924  29.266  50.537  0.00  0.00    +0.220 C 
+BRANCH  12  13
+HETATM   13  S   LIG    1       48.321  29.455  51.510  0.00  0.00    -0.137 S 
+HETATM   14  H   LIG    1       48.880  30.223  51.539  0.00  0.00    +0.105 HD
+ENDBRANCH  12  13
+ENDBRANCH   5   7
+BRANCH   1  16
+HETATM   15  C   LIG    1       46.856  33.116  54.387  0.00  0.00    +0.277 C 
+HETATM   16  O   LIG    1       45.450  33.075  54.134  0.00  0.00    -0.495 OA
+ENDBRANCH   1  16
+BRANCH   4  17
+HETATM   17  O   LIG    1       44.248  27.918  52.674  0.00  0.00    -0.493 OA
+HETATM   18  C   LIG    1       42.823  27.808  52.680  0.00  0.00    +0.277 C 
+ENDBRANCH   4  17
+TORSDOF 4
+
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -5.2     24.796     26.552
+
+
+
+ROOT
+HETATM    1  C   LIG    1       59.133  50.812  44.119  0.00  0.00    +0.122 A 
+HETATM    2  C   LIG    1       59.742  52.055  44.216  0.00  0.00    +0.049 A 
+HETATM    3  C   LIG    1       61.050  52.153  44.653  0.00  0.00    +0.051 A 
+HETATM    4  C   LIG    1       61.755  51.011  44.998  0.00  0.00    +0.142 A 
+HETATM    5  C   LIG    1       61.145  49.763  44.903  0.00  0.00    +0.081 A 
+HETATM    6  C   LIG    1       59.831  49.667  44.468  0.00  0.00    +0.072 A 
+ENDROOT
+BRANCH   5   7
+HETATM    7  N   LIG    1       61.856  48.605  45.251  0.00  0.00    -0.275 N 
+HETATM    8  C   LIG    1       62.604  47.817  44.388  0.00  0.00    +0.093 C 
+HETATM    9  C   LIG    1       63.121  46.817  45.094  0.00  0.00    +0.085 C 
+HETATM   10  N   LIG    1       62.708  46.963  46.408  0.00  0.00    -0.322 N 
+HETATM   11  H   LIG    1       62.935  46.376  47.146  0.00  0.00    +0.148 HD
+HETATM   12  C   LIG    1       61.938  48.067  46.483  0.00  0.00    +0.220 C 
+BRANCH  12  13
+HETATM   13  S   LIG    1       61.187  48.674  47.897  0.00  0.00    -0.137 S 
+HETATM   14  H   LIG    1       61.174  49.582  48.176  0.00  0.00    +0.105 HD
+ENDBRANCH  12  13
+ENDBRANCH   5   7
+BRANCH   1  16
+HETATM   15  C   LIG    1       57.368  49.434  44.095  0.00  0.00    +0.277 C 
+HETATM   16  O   LIG    1       57.846  50.718  43.688  0.00  0.00    -0.495 OA
+ENDBRANCH   1  16
+BRANCH   4  17
+HETATM   17  O   LIG    1       63.041  51.109  45.428  0.00  0.00    -0.493 OA
+HETATM   18  C   LIG    1       63.649  52.164  44.679  0.00  0.00    +0.277 C 
+ENDBRANCH   4  17
+TORSDOF 4
+
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -5.0      1.792      2.246
+
+
+
+ROOT
+HETATM    1  C   LIG    1       44.271  28.940  52.942  0.00  0.00    +0.122 A 
+HETATM    2  C   LIG    1       44.410  29.062  51.567  0.00  0.00    +0.049 A 
+HETATM    3  C   LIG    1       45.565  29.603  51.033  0.00  0.00    +0.051 A 
+HETATM    4  C   LIG    1       46.585  30.025  51.870  0.00  0.00    +0.142 A 
+HETATM    5  C   LIG    1       46.447  29.905  53.250  0.00  0.00    +0.081 A 
+HETATM    6  C   LIG    1       45.286  29.367  53.784  0.00  0.00    +0.072 A 
+ENDROOT
+BRANCH   5   7
+HETATM    7  N   LIG    1       47.478  30.332  54.099  0.00  0.00    -0.275 N 
+HETATM    8  C   LIG    1       48.546  29.562  54.537  0.00  0.00    +0.093 C 
+HETATM    9  C   LIG    1       49.302  30.321  55.322  0.00  0.00    +0.085 C 
+HETATM   10  N   LIG    1       48.723  31.578  55.387  0.00  0.00    -0.322 N 
+HETATM   11  H   LIG    1       49.061  32.337  55.888  0.00  0.00    +0.148 HD
+HETATM   12  C   LIG    1       47.610  31.565  54.627  0.00  0.00    +0.220 C 
+BRANCH  12  13
+HETATM   13  S   LIG    1       46.543  32.882  54.383  0.00  0.00    -0.137 S 
+HETATM   14  H   LIG    1       46.702  33.631  53.820  0.00  0.00    +0.105 HD
+ENDBRANCH  12  13
+ENDBRANCH   5   7
+BRANCH   1  16
+HETATM   15  C   LIG    1       42.761  27.319  52.618  0.00  0.00    +0.277 C 
+HETATM   16  O   LIG    1       43.133  28.408  53.465  0.00  0.00    -0.495 OA
+ENDBRANCH   1  16
+BRANCH   4  17
+HETATM   17  O   LIG    1       47.721  30.557  51.343  0.00  0.00    -0.493 OA
+HETATM   18  C   LIG    1       48.268  29.574  50.461  0.00  0.00    +0.277 C 
+ENDBRANCH   4  17
+TORSDOF 4
+
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -4.7     24.688     25.973
+
+
+
+ROOT
+HETATM    1  C   LIG    1       59.116  50.168  45.584  0.00  0.00    +0.122 A 
+HETATM    2  C   LIG    1       59.771  51.166  44.877  0.00  0.00    +0.049 A 
+HETATM    3  C   LIG    1       61.130  51.355  45.043  0.00  0.00    +0.051 A 
+HETATM    4  C   LIG    1       61.842  50.549  45.917  0.00  0.00    +0.142 A 
+HETATM    5  C   LIG    1       61.187  49.548  46.629  0.00  0.00    +0.081 A 
+HETATM    6  C   LIG    1       59.822  49.363  46.465  0.00  0.00    +0.072 A 
+ENDROOT
+BRANCH   5   7
+HETATM    7  N   LIG    1       61.905  48.731  47.515  0.00  0.00    -0.275 N 
+HETATM    8  C   LIG    1       62.031  48.925  48.882  0.00  0.00    +0.093 C 
+HETATM    9  C   LIG    1       62.785  47.943  49.366  0.00  0.00    +0.085 C 
+HETATM   10  N   LIG    1       63.142  47.119  48.310  0.00  0.00    -0.322 N 
+HETATM   11  H   LIG    1       63.691  46.322  48.369  0.00  0.00    +0.148 HD
+HETATM   12  C   LIG    1       62.588  47.618  47.186  0.00  0.00    +0.220 C 
+BRANCH  12  13
+HETATM   13  S   LIG    1       62.736  46.955  45.614  0.00  0.00    -0.137 S 
+HETATM   14  H   LIG    1       62.727  47.444  44.800  0.00  0.00    +0.105 HD
+ENDBRANCH  12  13
+ENDBRANCH   5   7
+BRANCH   1  16
+HETATM   15  C   LIG    1       57.599  49.395  44.130  0.00  0.00    +0.277 C 
+HETATM   16  O   LIG    1       57.779  49.984  45.419  0.00  0.00    -0.495 OA
+ENDBRANCH   1  16
+BRANCH   4  17
+HETATM   17  O   LIG    1       63.179  50.737  46.079  0.00  0.00    -0.493 OA
+HETATM   18  C   LIG    1       63.778  50.578  44.791  0.00  0.00    +0.277 C 
+ENDBRANCH   4  17
+TORSDOF 4
+
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -4.6     24.656     26.003
+
+
+
+ROOT
+HETATM    1  C   LIG    1       59.083  49.919  46.267  0.00  0.00    +0.122 A 
+HETATM    2  C   LIG    1       58.789  49.121  47.362  0.00  0.00    +0.049 A 
+HETATM    3  C   LIG    1       59.802  48.449  48.022  0.00  0.00    +0.051 A 
+HETATM    4  C   LIG    1       61.112  48.571  47.590  0.00  0.00    +0.142 A 
+HETATM    5  C   LIG    1       61.410  49.371  46.489  0.00  0.00    +0.081 A 
+HETATM    6  C   LIG    1       60.392  50.040  45.826  0.00  0.00    +0.072 A 
+ENDROOT
+BRANCH   5   7
+HETATM    7  N   LIG    1       62.736  49.496  46.050  0.00  0.00    -0.275 N 
+HETATM    8  C   LIG    1       63.650  50.447  46.476  0.00  0.00    +0.093 C 
+HETATM    9  C   LIG    1       64.791  50.236  45.829  0.00  0.00    +0.085 C 
+HETATM   10  N   LIG    1       64.611  49.149  44.989  0.00  0.00    -0.322 N 
+HETATM   11  H   LIG    1       65.278  48.769  44.396  0.00  0.00    +0.148 HD
+HETATM   12  C   LIG    1       63.346  48.708  45.143  0.00  0.00    +0.220 C 
+BRANCH  12  13
+HETATM   13  S   LIG    1       62.637  47.382  44.323  0.00  0.00    -0.137 S 
+HETATM   14  H   LIG    1       61.856  47.414  43.783  0.00  0.00    +0.105 HD
+ENDBRANCH  12  13
+ENDBRANCH   5   7
+BRANCH   1  16
+HETATM   15  C   LIG    1       57.542  49.668  44.661  0.00  0.00    +0.277 C 
+HETATM   16  O   LIG    1       58.085  50.579  45.619  0.00  0.00    -0.495 OA
+ENDBRANCH   1  16
+BRANCH   4  17
+HETATM   17  O   LIG    1       62.107  47.909  48.240  0.00  0.00    -0.493 OA
+HETATM   18  C   LIG    1       62.114  48.391  49.586  0.00  0.00    +0.277 C 
+ENDBRANCH   4  17
+TORSDOF 4
+
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -4.6     29.096     31.054
+
+
+
+ROOT
+HETATM    1  C   LIG    1       35.786  52.214  67.656  0.00  0.00    +0.122 A 
+HETATM    2  C   LIG    1       37.093  52.408  67.232  0.00  0.00    +0.049 A 
+HETATM    3  C   LIG    1       37.696  53.641  67.389  0.00  0.00    +0.051 A 
+HETATM    4  C   LIG    1       36.997  54.688  67.969  0.00  0.00    +0.142 A 
+HETATM    5  C   LIG    1       35.686  54.496  68.394  0.00  0.00    +0.081 A 
+HETATM    6  C   LIG    1       35.080  53.258  68.231  0.00  0.00    +0.072 A 
+ENDROOT
+BRANCH   5   7
+HETATM    7  N   LIG    1       34.976  55.553  68.981  0.00  0.00    -0.275 N 
+HETATM    8  C   LIG    1       34.244  56.519  68.305  0.00  0.00    +0.093 C 
+HETATM    9  C   LIG    1       33.722  57.342  69.208  0.00  0.00    +0.085 C 
+HETATM   10  N   LIG    1       34.117  56.906  70.463  0.00  0.00    -0.322 N 
+HETATM   11  H   LIG    1       33.883  57.316  71.310  0.00  0.00    +0.148 HD
+HETATM   12  C   LIG    1       34.880  55.806  70.301  0.00  0.00    +0.220 C 
+BRANCH  12  13
+HETATM   13  S   LIG    1       35.608  54.895  71.555  0.00  0.00    -0.137 S 
+HETATM   14  H   LIG    1       36.437  54.434  71.500  0.00  0.00    +0.105 HD
+ENDBRANCH  12  13
+ENDBRANCH   5   7
+BRANCH   1  16
+HETATM   15  C   LIG    1       34.537  50.700  68.734  0.00  0.00    +0.277 C 
+HETATM   16  O   LIG    1       35.195  50.999  67.501  0.00  0.00    -0.495 OA
+ENDBRANCH   1  16
+BRANCH   4  17
+HETATM   17  O   LIG    1       37.593  55.901  68.122  0.00  0.00    -0.493 OA
+HETATM   18  C   LIG    1       38.670  55.720  69.044  0.00  0.00    +0.277 C 
+ENDBRANCH   4  17
+TORSDOF 4
+
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -4.5     29.975     31.911
+
+
+
+ROOT
+HETATM    1  C   LIG    1       37.264  54.185  67.992  0.00  0.00    +0.122 A 
+HETATM    2  C   LIG    1       36.705  52.992  67.557  0.00  0.00    +0.049 A 
+HETATM    3  C   LIG    1       35.347  52.774  67.692  0.00  0.00    +0.051 A 
+HETATM    4  C   LIG    1       34.541  53.745  68.264  0.00  0.00    +0.142 A 
+HETATM    5  C   LIG    1       35.100  54.942  68.703  0.00  0.00    +0.081 A 
+HETATM    6  C   LIG    1       36.463  55.157  68.570  0.00  0.00    +0.072 A 
+ENDROOT
+BRANCH   5   7
+HETATM    7  N   LIG    1       34.286  55.926  69.282  0.00  0.00    -0.275 N 
+HETATM    8  C   LIG    1       33.721  57.009  68.624  0.00  0.00    +0.093 C 
+HETATM    9  C   LIG    1       33.022  57.707  69.512  0.00  0.00    +0.085 C 
+HETATM   10  N   LIG    1       33.137  57.074  70.739  0.00  0.00    -0.322 N 
+HETATM   11  H   LIG    1       32.728  57.362  71.570  0.00  0.00    +0.148 HD
+HETATM   12  C   LIG    1       33.911  55.983  70.575  0.00  0.00    +0.220 C 
+BRANCH  12  13
+HETATM   13  S   LIG    1       34.348  54.868  71.799  0.00  0.00    -0.137 S 
+HETATM   14  H   LIG    1       34.828  55.071  72.593  0.00  0.00    +0.105 HD
+ENDBRANCH  12  13
+ENDBRANCH   5   7
+BRANCH   1  16
+HETATM   15  C   LIG    1       38.848  55.743  68.270  0.00  0.00    +0.277 C 
+HETATM   16  O   LIG    1       38.601  54.397  67.857  0.00  0.00    -0.495 OA
+ENDBRANCH   1  16
+BRANCH   4  17
+HETATM   17  O   LIG    1       33.204  53.528  68.397  0.00  0.00    -0.493 OA
+HETATM   18  C   LIG    1       33.054  52.330  69.163  0.00  0.00    +0.277 C 
+ENDBRANCH   4  17
+TORSDOF 4
+
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -4.5     34.603     35.746
+
+
+
+ROOT
+HETATM    1  C   LIG    1       56.557  57.007  36.749  0.00  0.00    +0.122 A 
+HETATM    2  C   LIG    1       55.998  56.531  35.571  0.00  0.00    +0.049 A 
+HETATM    3  C   LIG    1       55.632  57.414  34.573  0.00  0.00    +0.051 A 
+HETATM    4  C   LIG    1       55.821  58.775  34.745  0.00  0.00    +0.142 A 
+HETATM    5  C   LIG    1       56.380  59.255  35.927  0.00  0.00    +0.081 A 
+HETATM    6  C   LIG    1       56.743  58.368  36.930  0.00  0.00    +0.072 A 
+ENDROOT
+BRANCH   5   7
+HETATM    7  N   LIG    1       56.572  60.633  36.104  0.00  0.00    -0.275 N 
+HETATM    8  C   LIG    1       55.646  61.525  36.625  0.00  0.00    +0.093 C 
+HETATM    9  C   LIG    1       56.201  62.732  36.631  0.00  0.00    +0.085 C 
+HETATM   10  N   LIG    1       57.482  62.616  36.115  0.00  0.00    -0.322 N 
+HETATM   11  H   LIG    1       58.119  63.339  36.002  0.00  0.00    +0.148 HD
+HETATM   12  C   LIG    1       57.691  61.321  35.804  0.00  0.00    +0.220 C 
+BRANCH  12  13
+HETATM   13  S   LIG    1       59.125  60.668  35.134  0.00  0.00    -0.137 S 
+HETATM   14  H   LIG    1       59.296  59.747  34.973  0.00  0.00    +0.105 HD
+ENDBRANCH  12  13
+ENDBRANCH   5   7
+BRANCH   1  16
+HETATM   15  C   LIG    1       57.852  55.224  37.150  0.00  0.00    +0.277 C 
+HETATM   16  O   LIG    1       56.917  56.136  37.730  0.00  0.00    -0.495 OA
+ENDBRANCH   1  16
+BRANCH   4  17
+HETATM   17  O   LIG    1       55.459  59.643  33.762  0.00  0.00    -0.493 OA
+HETATM   18  C   LIG    1       56.345  59.414  32.663  0.00  0.00    +0.277 C 
+ENDBRANCH   4  17
+TORSDOF 4
+
+ENDMDL
