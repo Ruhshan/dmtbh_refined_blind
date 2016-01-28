@@ -1,0 +1,15 @@
+receptor= final_modelled_loop_dmtbh.pdbqt 
+ligand=2-MeO,5-Cl-arylimidazole-2(3H)-thiones.pdbqt
+
+log=2-MeO,5-Cl-arylimidazole-2(3H)-thiones.log
+
+center_x = 46.118
+center_y = 47.214
+center_z = 45.97
+
+size_x = 48
+size_y = 66
+size_z = 60
+
+out=docked&2-MeO,5-Cl-arylimidazole-2(3H)-thiones.pdbqt
+
